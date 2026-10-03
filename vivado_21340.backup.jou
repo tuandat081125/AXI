@@ -1,0 +1,51 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Tue Sep  8 09:15:45 2026
+# Process ID         : 21340
+# Current directory  : F:/Project/RAM AXI Full
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent15172 F:\Project\RAM AXI Full\RAM AXI.xpr
+# Log file           : F:/Project/RAM AXI Full/vivado.log
+# Journal file       : F:/Project/RAM AXI Full\vivado.jou
+# Running On         : LAPTOP-3O671DBN
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450HX
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16873 MB
+# Swap memory        : 10737 MB
+# Total Virtual      : 27610 MB
+# Available Virtual  : 15078 MB
+#-----------------------------------------------------------
+start_gui
+open_project {F:/Project/RAM AXI Full/RAM AXI.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+source tb_ram.tcl
+close_sim
+launch_simulation
+open_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+source tb_ram.tcl
+save_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+source tb_ram.tcl
+close_sim
+launch_simulation
+open_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+source tb_ram.tcl
+close_sim
+launch_simulation
+open_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+source tb_ram.tcl
+close_sim
+launch_simulation
+open_wave_config {F:/Project/RAM AXI Full/tb_ram_behav.wcfg}
+source tb_ram.tcl
+close_sim

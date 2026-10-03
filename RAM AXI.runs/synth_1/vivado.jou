@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Aug 15 13:46:46 2026
+# Process ID         : 14452
+# Current directory  : F:/Project/RAM AXI Simple/RAM AXI.runs/synth_1
+# Command line       : vivado.exe -log ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ram.tcl
+# Log file           : F:/Project/RAM AXI Simple/RAM AXI.runs/synth_1/ram.vds
+# Journal file       : F:/Project/RAM AXI Simple/RAM AXI.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-3O671DBN
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450HX
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16873 MB
+# Swap memory        : 13421 MB
+# Total Virtual      : 30295 MB
+# Available Virtual  : 14604 MB
+#-----------------------------------------------------------
+source ram.tcl -notrace

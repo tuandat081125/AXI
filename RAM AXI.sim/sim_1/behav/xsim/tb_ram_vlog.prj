@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../Program/Vivado/2025.2/Vivado/data/rsb/busdef" \
+"../../../../RAM AXI.srcs/sources_1/new/counter.sv" \
+"../../../../RAM AXI.srcs/sources_1/new/ram.sv" \
+"../../../../RAM AXI.srcs/sources_1/new/reg_1.sv" \
+"../../../../RAM AXI.srcs/sources_1/new/reg_2.sv" \
+"../../../../RAM AXI.srcs/sim_1/new/slave_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

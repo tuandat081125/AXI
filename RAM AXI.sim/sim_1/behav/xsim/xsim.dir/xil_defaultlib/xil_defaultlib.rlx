@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+F:/Project/RAM AXI Full/RAM AXI.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+F:/Project/RAM AXI Full/RAM AXI.srcs/sim_1/new/slave_tb.sv,1789196162,systemVerilog,,,,tb_ram,,uvm,../../../../../../Program/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/counter.sv,1789046194,systemVerilog,,F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/ram.sv,,counter,,uvm,../../../../../../Program/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/ram.sv,1789196084,systemVerilog,,F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/reg_1.sv,,ram,,uvm,../../../../../../Program/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/reg_1.sv,1786807502,systemVerilog,,F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/reg_2.sv,,reg_1,,uvm,../../../../../../Program/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
+F:/Project/RAM AXI Full/RAM AXI.srcs/sources_1/new/reg_2.sv,1786807985,systemVerilog,,F:/Project/RAM AXI Full/RAM AXI.srcs/sim_1/new/slave_tb.sv,,reg_2,,uvm,../../../../../../Program/Vivado/2025.2/Vivado/data/rsb/busdef,,,,,
