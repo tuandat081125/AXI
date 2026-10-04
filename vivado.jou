@@ -3,10 +3,10 @@
 # SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
 # IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
 # SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
-# Start of session at: Sun Oct  4 13:14:20 2026
-# Process ID         : 1268
+# Start of session at: Sun Oct  4 18:16:13 2026
+# Process ID         : 21140
 # Current directory  : F:/Project/RAM AXI Full
-# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent22392 F:\Project\RAM AXI Full\RAM AXI.xpr
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent20084 F:\Project\RAM AXI Full\RAM AXI.xpr
 # Log file           : F:/Project/RAM AXI Full/vivado.log
 # Journal file       : F:/Project/RAM AXI Full\vivado.jou
 # Running On         : LAPTOP-3O671DBN
@@ -19,13 +19,8 @@
 # Host memory        : 16873 MB
 # Swap memory        : 10737 MB
 # Total Virtual      : 27610 MB
-# Available Virtual  : 10683 MB
+# Available Virtual  : 12305 MB
 #-----------------------------------------------------------
 start_gui
 open_project {F:/Project/RAM AXI Full/RAM AXI.xpr}
-update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-update_compile_order -fileset sim_1
-update_compile_order -fileset sim_1
 update_compile_order -fileset sources_1
